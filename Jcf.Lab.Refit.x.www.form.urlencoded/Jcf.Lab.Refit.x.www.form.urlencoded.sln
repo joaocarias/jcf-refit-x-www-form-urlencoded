@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jcf.Lab.Refit.x.www.form.urlencoded.Api", "src\Jcf.Lab.Refit.x.www.form.urlencoded.Api\Jcf.Lab.Refit.x.www.form.urlencoded.Api.csproj", "{E2A5DC8D-D0CB-4D38-9B4C-1CA26AA8D740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jcf.Lab.Refit.x.www.form.urlencoded.Domain", "src\Jcf.Lab.Refit.x.www.form.urlencoded.Domain\Jcf.Lab.Refit.x.www.form.urlencoded.Domain.csproj", "{2285AAE6-72EA-4EBC-BAE0-C27C54F0DAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A5DC8D-D0CB-4D38-9B4C-1CA26AA8D740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A5DC8D-D0CB-4D38-9B4C-1CA26AA8D740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A5DC8D-D0CB-4D38-9B4C-1CA26AA8D740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A5DC8D-D0CB-4D38-9B4C-1CA26AA8D740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2285AAE6-72EA-4EBC-BAE0-C27C54F0DAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2285AAE6-72EA-4EBC-BAE0-C27C54F0DAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2285AAE6-72EA-4EBC-BAE0-C27C54F0DAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2285AAE6-72EA-4EBC-BAE0-C27C54F0DAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4431FF71-E3DE-421F-B24D-E7F53861DF0E}
+	EndGlobalSection
+EndGlobal
